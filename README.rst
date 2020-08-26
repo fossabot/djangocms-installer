@@ -34,6 +34,8 @@ Installation
 ------------
 
 #. Create an empty virtualenv::
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-installer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-installer?ref=badge_shield)
+
 
     virtualenv /virtualenv/path/my_project
 
@@ -72,3 +74,7 @@ For additional information, check http://djangocms-installer.readthedocs.org/en/
    :alt: Bitdeli badge
    :target: https://bitdeli.com/free
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-installer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-installer?ref=badge_large)
